@@ -21,7 +21,7 @@ This dashboard analyzes customer churn behavior using Power BI. It was built as 
 - Dependents + Fiber = Higher churn risk
 
 ## 📷 Screenshots
-![Dashboard Preview](dashboard_screenshot1.png)
+![Customer Churn Dashboard](TASK1/Customer%20churn%20Analysis%20and%20predictions.png)
 
 ---
 
