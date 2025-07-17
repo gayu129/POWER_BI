@@ -20,8 +20,10 @@ This dashboard analyzes customer churn behavior using Power BI. It was built as 
 - Streaming service users are more engaged
 - Dependents + Fiber = Higher churn risk
 
-## 📷 Screenshots
+## 📷 Dashboard Preview
+
 ![Customer Churn Dashboard](TASK1/Customer%20churn%20Analysis%20and%20predictions.png)
+
 
 ---
 
